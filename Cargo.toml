@@ -24,4 +24,3 @@ git = "https://github.com/waucka/sdl2-sys"
 [features]
 
 default = []
-use-pkgconfig = [ "sdl2-sys/use-pkgconfig" ]
