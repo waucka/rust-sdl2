@@ -19,9 +19,7 @@ libc = "*"
 rand = "*"
 
 [dependencies.sdl2-sys]
-
-path = "sdl2-sys"
-version = "0.0.34"
+git = "https://github.com/waucka/sdl2-sys"
 
 [features]
 
